@@ -1,0 +1,5 @@
+Git is an application which needs to be download and install, which is used to track version.. it is a version control system
+https://git-scm.com/download
+windows 64 bit
+after installing check git -v
+https://github.com/SatyaS07/Angular-17
