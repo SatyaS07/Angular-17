@@ -2,4 +2,10 @@ Git is an application which needs to be download and install, which is used to t
 https://git-scm.com/download
 windows 64 bit
 after installing check git -v
-https://github.com/SatyaS07/Angular-17
+"https://github.com/SatyaS07/Angular-17"
+
+steps:
+1. git init 
+2. git add .
+3. git commit -m "update"
+4. 
