@@ -1,0 +1,15 @@
+Data bindig:
+The transmission of Data from component to template or Template to Component or both
+Angular supports one way and two way data binding
+i. one way data binding:
+  a. Component to Template:
+    1. string interpolation: it is a way of getting data from component to template as a string
+    we will do it by {{}}(double flower brackets)
+    2.property Binding:
+    it is also another way of sending data from component to template but it won't data as string.
+    we will do it using square brackets []
+  b. from template to component 
+    this is called Event Binding. It is used to send data from template to component
+    we will achieve this by paranthesis '()'
+
+    
