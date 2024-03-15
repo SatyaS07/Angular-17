@@ -12,4 +12,11 @@ i. one way data binding:
     this is called Event Binding. It is used to send data from template to component
     we will achieve this by paranthesis '()'
 
-    
+    Two-Way Data Binging :
+     Two way data binding means data should be sent from component to template and template to component at a time
+
+     We will achieve two way data binding by ngModal with like this "[(ngModal)]
+
+     steps:
+     syntax:<input [(ngModel)] = "variable">, u will write variable in ts file(component file).
+     To make ngModal work, import FormsModule in app.module.ts and write it in its imports
