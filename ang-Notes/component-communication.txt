@@ -20,3 +20,15 @@ There are three way to achieve it.
 
 1. parent to child:
 parent component send the data to child as properties and child will receive as @Input()
+
+//parent-component.html
+<app-child title="xyz"></app-child>
+
+//child-component.ts
+@Input() title;
+
+2. child to parent:
+child component to parent component Communication can be done in three ways
+1.@output()
+2.@viewChild()
+3.template reference variable 
